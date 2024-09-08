@@ -1,6 +1,5 @@
 
 import Image from "next/image";
-import LogoImage from './logo.jpg'
 import ProfileImage from "./profile.jpg"
 import Link from "next/link";
 export default function Home() {
