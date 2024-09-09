@@ -23,62 +23,6 @@ export default function Home() {
             </Link>
           </p>
         </div>
-        {/* <div className="mb-6">
-          <h2 className="text-xl font-semibold mb-2">Technical Support</h2>
-          <p>
-            For any issues related to our website or technical difficulties, please
-            get in touch with our support team:{" "}
-            <a
-              href="mailto:abhi.fullstackdeveloper@gmail.com"
-              className="text-blue-500 hover:underline"
-            >
-              abhi.fullstackdeveloper@gmail.com
-            </a>
-          </p>
-        </div> */}
-        {/* <div className="mb-6">
-          <h2 className="text-xl font-semibold mb-2">Follow Us</h2>
-          <p>
-            Stay updated with our latest posts and news by following us on social
-            media:
-          </p>
-          <div className="flex space-x-4 mt-2">
-            <a
-              href="https://twitter.com/YourTwitterHandle"
-              target="_blank"
-              className="text-blue-500 hover:underline"
-            >
-              Twitter
-            </a>
-            <a
-              href="https://facebook.com/YourFacebookPage"
-              target="_blank"
-              className="text-blue-500 hover:underline"
-            >
-              Facebook
-            </a>
-            <a
-              href="https://instagram.com/YourInstagramHandle"
-              target="_blank"
-              className="text-blue-500 hover:underline"
-            >
-              Instagram
-            </a>
-          </div>
-        </div>
-        <div>
-          <h2 className="text-xl font-semibold mb-2">Mailing Address</h2>
-          <p>
-            If you need to send us a letter or package, please use the following
-            address:
-          </p>
-          <div className="bg-gray-50 p-4 rounded mt-2">
-            <p>Your Blog Name</p>
-            <p>1234 Blog Street</p>
-            <p>City, State, ZIP Code</p>
-            <p>Country</p>
-          </div>
-        </div> */}
       </div>
 
     </>
