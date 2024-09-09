@@ -7,9 +7,7 @@ export default function Home() {
       <div className="container mx-auto p-6 bg-white shadow-md rounded-lg mt-10">
         <h1 className="text-3xl font-semibold mb-6">Contact Us</h1>
         <p className="mb-6">
-          We'd love to hear from you! Whether you have a question, feedback, or just
-          want to say hello, feel free to reach out using the contact information
-          below. We aim to respond as quickly as possible.
+          We'd love to hear from you! Whether you have a question, feedback, or just want to say hello, feel free to reach out using the contact information below. We aim to respond as quickly as possible.
         </p>
         <div className="mb-6">
           <h2 className="text-xl font-semibold mb-2">General Inquiries</h2>
