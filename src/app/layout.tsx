@@ -43,7 +43,7 @@ export default function RootLayout({
             alt="Picture of the author"
           />
 
-          <h1 className="text-3xl mt-2">Appingenious Blog</h1>
+          <h1 className="text-3xl mt-2">AppIngenious Blog</h1>
           <nav className="mt-4">
             <Link href="/" className="text-white hover:underline mx-2">Home</Link>
             

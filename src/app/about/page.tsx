@@ -65,8 +65,8 @@ export default function Home() {
           <h3 className="text-lg font-semibold mb-2">Tools &amp; Platforms</h3>
           <ul className="list-disc list-inside">
             <li>Git</li>
-            <li>Docker</li>
-            <li>AWS</li>
+            {/* <li>Docker</li>
+            <li>AWS</li> */}
             <li>Firebase</li>
           </ul>
         </div>
