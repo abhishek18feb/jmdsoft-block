@@ -4,10 +4,10 @@ import Image from "next/image";
 import ProfileImage from "../profile.jpg"
 const Resume: React.FC = () => {
 
-    const sectionRef = useRef();
+    const sectionRef = useRef<HTMLInputElement>();
 
     const handlePrint = () => {
-      const printContents = sectionRef.current.innerHTML;
+      const printContents:any = sectionRef?.current?.innerHTML;
       const originalContents = document.body.innerHTML;
   
       document.body.innerHTML = printContents;
