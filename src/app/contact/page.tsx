@@ -14,7 +14,7 @@ export default function Home() {
         <div className="mb-6">
           <h2 className="text-xl font-semibold mb-2">General Inquiries</h2>
           <p>
-            For general questions, technical requirements, Job Openings or comments or any other queries, please email us at:{" "}
+            For general questions, technical assistance, Job Openings or comments or any other queries, please email us at:{" "}
             <Link
               href="mailto:abhi.fullstackdeveloper@gmail.com"
               className="text-blue-500 hover:underline"

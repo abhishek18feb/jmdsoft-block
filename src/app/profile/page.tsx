@@ -4,7 +4,7 @@ import Image from "next/image";
 import ProfileImage from "../profile.jpg"
 const Resume: React.FC = () => {
 
-    const sectionRef = useRef<HTMLInputElement>();
+    const sectionRef = useRef<HTMLInputElement>(null);
 
     const handlePrint = () => {
       const printContents:any = sectionRef?.current?.innerHTML;
