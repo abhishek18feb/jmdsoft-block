@@ -7,12 +7,14 @@ const Resume: React.FC = () => {
     const sectionRef = useRef<HTMLInputElement>(null);
 
     const handlePrint = () => {
-      const printContents:any = sectionRef?.current?.innerHTML;
-      const originalContents = document.body.innerHTML;
-  
-      document.body.innerHTML = printContents;
-      window.print();
-      document.body.innerHTML = originalContents;
+        if (sectionRef.current) {
+            const printContents:string = sectionRef?.current?.innerHTML;
+            const originalContents = document.body.innerHTML;
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalContents;
+        }
+      
     };
     return (
         <div>
