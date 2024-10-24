@@ -13,6 +13,14 @@ export default function Home() {
         <div className="row">
           <div className="leftcolumn">
             <div className="card">
+                <h2>Setup XNET on AWS Ubuntu EC2 Instance</h2>
+                <div className="fakeimg" style={{ height: 200 }}>
+                XNAT is an open source imaging informatics platform developed by the Neuroinformatics Research Group at Washington University. XNAT was originally developed at Washington University in the Buckner Lab, which is now located at Harvard University. It facilitates common management, productivity, and quality assurance tasks for imaging and associated data...
+                <Link href={"https://medium.com/@abhi-fullstackdeveloper/setup-xnet-on-aws-ubuntu-ec2-instance-90166765adb8"} target="_blank" className="text-[#f0f8ff] hover:underline cursor-pointer"> Read More</Link>
+                </div>
+                <p>Keywords: Python, Flask, Bcrypt</p>
+            </div>
+            <div className="card">
               <h2>Flask Api for Creating, Storing and Verifying Bcrypt Hash Password</h2>
               <div className="fakeimg" style={{ height: 200 }}>
               I am writing this article because during implementing and verifying the bcrypt hash password with the hash string which is stored hash inside postgresSql db was not working. After long time R&D I didn’t get the exact solution of my problem. Hence I though I will write one article to help other developer after getting the solution. In this article I have used the following pip packages...
