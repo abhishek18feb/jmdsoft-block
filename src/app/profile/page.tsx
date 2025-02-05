@@ -91,20 +91,20 @@ const Resume: React.FC = () => {
                             <div className="mb-4">
                                 <h3 className="text-lg font-semibold">PHP Developer - Eweblabs.</h3>
                                 <p className="text-sm text-gray-400">January 2016 - Feb 2018</p>
-                                <p>Created website using Php(Cakephp).</p>
+                                <p>Created website using Php(Laravel and Cakephp).</p>
                             </div>
                             <div className="mb-4">
                                 <h3 className="text-lg font-semibold">Trainer (C, C++, php, JavaScript, MySql) -RBCEBTW.</h3>
                                 <p className="text-sm text-gray-400">September 2010 to August, 2014</p>
                             </div>
                         </section>
-                        <section className="mb-6">
+                        {/* <section className="mb-6">
                             <h2 className="text-xl font-bold mb-2 text-blue-700">Experience Other then IT Sector</h2>
                             <div className="mb-4">
                                 <h3 className="text-lg font-semibold">Quant and Reasoning Teacher - Brilliant Academy, Chhatarpur (M.P.).</h3>
                                 <p className="text-sm text-gray-400">January 2015 to August 2015</p>
                             </div>
-                        </section>
+                        </section> */}
 
                         <section className="mb-6">
                             <h2 className="text-xl font-bold mb-2 text-blue-900">Projects</h2>
@@ -148,9 +148,25 @@ const Resume: React.FC = () => {
                                 <h3 className="text-lg font-semibold">Digital Insurance Portal</h3>
                                 <p>Developed a portal for providing different types of Insurance using React, Redux, Redux-saga, Node.js, MongoDB, Apollo GraphQl, Apollo Gatway, Microservice.</p>
                             </div>
-                            <div>
+                            {/* <div className="mb-4">
                                 <h3 className="text-lg font-semibold">Mental Health Portal (ootify.com)</h3>
                                 <p>Implemented video chat and sharable meeting links using Twilio APIs.</p>
+                            </div> */}
+                            <div className="mb-4">
+                                <h3 className="text-lg font-semibold"> Multi Language Classified Website</h3>
+                                <p><b>Technology Used: </b> Laravel, Html, css, jquery</p>
+                                <p><b>Role: </b>Responsible for guiding frontend and backend development, Api Writing, Client Communication.</p>
+                            </div>
+                            <div className="mb-4">
+                                <h3 className="text-lg font-semibold">Meal Planner </h3>
+                                <p><b>Technology Used: </b> Laravel, Html, css, jquery</p>
+                                <p><b>Role: </b>Involved in maintenance and created Restful Apis.</p>
+                            </div>
+                            <div className="mb-4">
+                                <h3 className="text-lg font-semibold">J-Fireworks</h3>
+                                <p><b>Project Description: </b>A multi-language e-commerce website for selling crackers online.</p>
+                                <p><b>Technology Used: </b> Laravel, Html, css, jquery</p>
+                                <p><b>Role: </b> Was involved in maintenance and introduced various offers like Happy Weekend, Early Bird, Special, and Top-up offers.</p>
                             </div>
                         </section>
 
