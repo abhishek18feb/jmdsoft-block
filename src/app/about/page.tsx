@@ -29,7 +29,7 @@ export default function Home() {
                 <ul className="list-disc list-inside">
                   <li>HTML</li>
                   <li>CSS</li>
-                  <li>JavaScript</li>
+                  <li>JavaScript, JQuery, Ajax</li>
                   <li>React, Next.JS</li>
                 </ul>
               </div>
