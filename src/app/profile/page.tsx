@@ -49,7 +49,8 @@ const Resume: React.FC = () => {
                             <h2 className="text-xl font-bold mb-2">Skills</h2>
                             <ul className="space-y-2">
                                 <li className="bg-blue-800 p-2 rounded">React, Redux, Node.js</li>
-                                <li className="bg-blue-800 p-2 rounded">PHP, JavaScript, Python</li>
+                                <li className="bg-blue-800 p-2 rounded">Python, Django</li>
+                                <li className="bg-blue-800 p-2 rounded">PHP, JavaScript</li>
                                 <li className="bg-blue-800 p-2 rounded">OpenAI, LangChain</li>
                                 <li className="bg-blue-800 p-2 rounded">MongoDB, MySQL</li>
                                 <li className="bg-blue-800 p-2 rounded">Apollo, GraphQL</li>
