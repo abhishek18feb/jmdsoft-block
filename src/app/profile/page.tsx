@@ -42,7 +42,7 @@ const Resume: React.FC = () => {
                             <div className="mb-8">
                                 <p><strong>Mobile:</strong> +91-9958528055</p>
                                 <p><strong>Email:</strong> er.abhishek18feb@gmail.com</p>
-                                <p><strong>Location:</strong> H NO 1032 Sect 42B Chandigarh</p>
+                                <p><strong>Location:</strong> AVS Orchard sector-77 Noida</p>
                             </div>
                         </div>
                         <div>
