@@ -48,13 +48,14 @@ const Resume: React.FC = () => {
                         <div>
                             <h2 className="text-xl font-bold mb-2">Skills</h2>
                             <ul className="space-y-2">
-                                <li className="bg-blue-800 p-2 rounded">React, Redux, Node.js</li>
+                                <li className="bg-blue-800 p-2 rounded">Node.js, Expressjs</li>
+                                <li className="bg-blue-800 p-2 rounded">React, Redux, Redux Saga</li>
                                 <li className="bg-blue-800 p-2 rounded">Python, Django</li>
                                 <li className="bg-blue-800 p-2 rounded">PHP, JavaScript</li>
                                 <li className="bg-blue-800 p-2 rounded">OpenAI, LangChain</li>
-                                <li className="bg-blue-800 p-2 rounded">MongoDB, MySQL</li>
-                                <li className="bg-blue-800 p-2 rounded">Apollo, GraphQL</li>
-                                <li className="bg-blue-800 p-2 rounded">Stripe, PayPal</li>
+                                <li className="bg-blue-800 p-2 rounded">MongoDB, Postgres, MySQL</li>
+                                <li className="bg-blue-800 p-2 rounded">Apollo GraphQL</li>
+                                {/* <li className="bg-blue-800 p-2 rounded">Stripe, PayPal</li> */}
                             </ul>
                             <h2 className="text-xl font-bold mt-6 mb-2">Education</h2>
                             <ul className="space-y-2">
