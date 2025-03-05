@@ -8,7 +8,7 @@ export default function Home() {
           <div className="container mx-auto px-6">
             <h1 className="text-3xl font-bold">Abhishek Gupta</h1>
             <p className="mt-2 text-lg">Web &amp; App Developer</p>
-            <p>Mobile: 9667758949</p>
+            <p>Mobile: +91-9958528055</p>
             <p>Email: <Link href="mailto:abhi.fullstackdeveloper@gmail.com">abhi.fullstackdeveloper@gmail.com</Link></p>
           </div>
         </header>
